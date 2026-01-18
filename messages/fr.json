@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "work": "Projets",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "locale": {
+    "switch": "Changer de langue"
+  }
+}

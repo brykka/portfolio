@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "locale": {
+    "switch": "Switch language"
+  }
+}
